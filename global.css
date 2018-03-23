@@ -1,0 +1,44 @@
+*
+{
+	font-size: 32px;
+}
+
+body
+{
+	background-color: #000000;
+	font-family: Century, serif;
+	font-size: 16px;
+}
+
+ul
+{
+	background-color: #777777;
+	display: inline-block;
+}
+
+p, li, ol 
+{
+	color: #FFFFFF;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+table
+{
+	margin-top: 16px;
+	margin-bottom: 16px;
+	padding: 4px;
+}
+
+#id_sel
+{
+	vertical-align: middle;
+}
+
+.class_sel
+{
+	vertical-align: middle;
+}
